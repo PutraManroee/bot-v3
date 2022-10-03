@@ -31,32 +31,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/q.c.ditya' // ig
-global.sgh = 'https://github.com/Dityarunz' // github
-global.sgc = 'https://chat.whatsapp.com/ItmAE6roJjQIOru4wqkYQz' // group whatsapp
-global.sdc = '404'//discord
-global.snh = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg' // my youtube channel
-global.sfb = 'gak punya' // facebook
-global.syt = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = 'https://instagram.com/Jay_manroee' // ig
+global.sgh = 'https://github.com/PutraManroee/' // github
+global.sgc = '-' // group whatsapp
+global.sdc = '-'//discord
+global.snh = '-' // my youtube channel
+global.sfb = 'https://www.facebook.com/' // facebook
+global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085792429140' //dana
-global.povo = '085738153140' //ovo
-global.pgopay = '085792429140' //gopay
+global.pdana = '082158393348' //dana
+global.povo = '082158393348' //ovo
+global.pgopay = '082158393348' //gopay
 global.plinkaja = 'gak ada' //link aja
-global.ppulsa = 'gak ada' //telkomsel
-global.ppulsa2 = '085792429140' // kalau ada kartu lain isi aja
+global.ppulsa = '082158393348' //telkomsel
+global.ppulsa2 = '082158393348' // kalau ada kartu lain isi aja
 global.psaweria = 'gak ada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285792429140'
-global.nomorown = '6285237596750'
-global.namebot = 'DITYA BOTZ'
-global.nameown = 'DITYA ASTAWA'
+global.nomorbot = '6283173503940'
+global.nomorown = '6282158393348'
+global.namebot = 'PutraManroee'
+global.nameown = 'Manurung'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'https://github.com/Dityarunz' // nama github lu
-global.linkgithub = 'https://github.com/Dityarunz' // tarok link github lu
+global.namagithub = 'https://github.com/PutraManroee/' // nama github lu
+global.linkgithub = 'https://github.com/PutraManroee/' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -67,11 +67,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285237596750', 'DITYA ASTAWA', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true]
+  ['6282158393348', 'Manurung', true],
+  ['-', '6282158393348', true],
+  ['-', '6282158393348', true],
+  ['-', '6282158393348', true],
+  ['-', '6282158393348', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -120,14 +120,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DITYA BOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DITYA-BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DITYA BOTZ '
+global.wm = '                「 MANURUNG 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MANURUNG-BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ MANURUNG BOTZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DITYA ASTAWA`
+global.titlebot = `⫹⫺ WhatsApp Bot | By MANURUNG`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 DITYA BOTZ  あ」'
+global.author = '                「 MANURUNG  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -419,8 +419,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DITYA BOTZ'
-global.stickauth = `By ©DITYA ASTAWA`
+global.stickpack = 'MANURUNG'
+global.stickauth = `By ©MANURUNG`
 
 global.multiplier = 38 // The higher, The harder levelup
 

@@ -49,9 +49,9 @@ global.ppulsa2 = '082158393348' // kalau ada kartu lain isi aja
 global.psaweria = 'gak ada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283173503940'
+global.nomorbot = '6281932695460'
 global.nomorown = '6282158393348'
-global.namebot = 'PutraManroee'
+global.namebot = 'RizkyGantenk'
 global.nameown = 'Manurung'
 
 /*============== Github Thanks To ==============*/
